@@ -1,0 +1,3 @@
+# .gitignore
+# This file contains a list of files and directories that should be ignored by Git.
+# It helps to prevent unnecessary files from being tracked in the repository, such as temporary files, build artifacts, and sensitive information.
